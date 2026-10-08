@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动提交外链"
+  short_description: "Quality-gated product directory submissions"
+  default_prompt: "Use $auto-submit-backlinks to qualify up to 10 relevant product directories, then submit only to the authorized, quality-passed sites with auditable evidence."
